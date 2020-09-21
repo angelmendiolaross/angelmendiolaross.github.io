@@ -1,7 +1,7 @@
 # Ángel Mendiola Ross, MCP
 ## Sociology Ph.D. Student, UC Berkeley
 
-IMG_4900.JPG
+![](IMG_4900.JPG)
 
 Research interests: (sub)urban sociology, housing, race/ethnicity and inequality, policing
 
